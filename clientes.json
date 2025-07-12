@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "Marcus Banzatto",
+        "cpf": "25869730899",
+        "endereco": "Geraldo Ribeiro Duarte, 332",
+        "cidade": "Sorocaba",
+        "estado": "SP"
+    },
+    {
+        "nome": "Vitoria Josefa Elaine Aparicio",
+        "cpf": "54651452850",
+        "endereco": "Rua S\u00c3\u00a3o Bento, 167",
+        "cidade": "Brotas",
+        "estado": "SP"
+    },
+    {
+        "nome": "Mario Rodrigo Samuel da Rosa",
+        "cpf": "24786671851",
+        "endereco": "Rua Gon\u00c3\u00a7alo Zeferim, 1023",
+        "cidade": "Ilha Solteira",
+        "estado": "SP"
+    },
+    {
+        "nome": "Gabriel Ryan Cardoso",
+        "cpf": "24017172857",
+        "endereco": "Rua S\u00c3\u00a3o Paulo, 167",
+        "cidade": "Adamantina",
+        "estado": "SP"
+    },
+    {
+        "nome": "Arthur Kevin Rezende",
+        "cpf": "02245855841",
+        "endereco": "Rua S\u00c3\u00a3o Paulo, 167",
+        "cidade": "Conchas",
+        "estado": "SP"
+    }
+]
